@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Receptor Bluetooth TPMS </string>
+    <string name="devices">Dispositivos Bluetooth</string>
+    <string name="bluetooth_settings">Bluetooth settings</string>
+</resources>
